@@ -1,0 +1,5 @@
+{
+  "name": "MSBTE AI Question Paper Generator",
+  "description": "An AI-powered tool for MSBTE students to generate practice question papers for any subject. Users can answer the questions and receive an AI-driven evaluation with marks and feedback to prepare for their exams.",
+  "requestFramePermissions": []
+}
